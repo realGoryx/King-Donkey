@@ -1,0 +1,54 @@
+﻿  main.cpp
+C:\Users\szymo\OneDrive\Pulpit\Donkey Kong — kopia\main.cpp(227,6): warning C4804: ">": niebezpieczne użycie typu "bool" w operacji
+C:\Users\szymo\OneDrive\Pulpit\Donkey Kong — kopia\main.cpp(507,63): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\szymo\OneDrive\Pulpit\Donkey Kong — kopia\main.cpp(507,44): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\szymo\OneDrive\Pulpit\Donkey Kong — kopia\main.cpp(610,26): warning C4244: "+=": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\szymo\OneDrive\Pulpit\Donkey Kong — kopia\main.cpp(618,15): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\szymo\OneDrive\Pulpit\Donkey Kong — kopia\main.cpp(632,15): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\szymo\OneDrive\Pulpit\Donkey Kong — kopia\main.cpp(641,9): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\szymo\OneDrive\Pulpit\Donkey Kong — kopia\main.cpp(655,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\szymo\OneDrive\Pulpit\Donkey Kong — kopia\main.cpp(656,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\szymo\OneDrive\Pulpit\Donkey Kong — kopia\main.cpp(657,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\szymo\OneDrive\Pulpit\Donkey Kong — kopia\main.cpp(675,4): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\szymo\OneDrive\Pulpit\Donkey Kong — kopia\main.cpp(677,4): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\szymo\OneDrive\Pulpit\Donkey Kong — kopia\main.cpp(732,55): warning C4267: "argument": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\szymo\OneDrive\Pulpit\Donkey Kong — kopia\main.cpp(728,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\szymo\OneDrive\Pulpit\Donkey Kong — kopia\main.cpp(730,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\szymo\OneDrive\Pulpit\Donkey Kong — kopia\main.cpp(836,21): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\szymo\OneDrive\Pulpit\Donkey Kong — kopia\main.cpp(835,63): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\szymo\OneDrive\Pulpit\Donkey Kong — kopia\main.cpp(838,21): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\szymo\OneDrive\Pulpit\Donkey Kong — kopia\main.cpp(837,67): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\szymo\OneDrive\Pulpit\Donkey Kong — kopia\main.cpp(826,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\szymo\OneDrive\Pulpit\Donkey Kong — kopia\main.cpp(828,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\szymo\OneDrive\Pulpit\Donkey Kong — kopia\main.cpp(830,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\szymo\OneDrive\Pulpit\Donkey Kong — kopia\main.cpp(832,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\szymo\OneDrive\Pulpit\Donkey Kong — kopia\main.cpp(891,50): warning C4267: "argument": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\szymo\OneDrive\Pulpit\Donkey Kong — kopia\main.cpp(893,50): warning C4267: "argument": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\szymo\OneDrive\Pulpit\Donkey Kong — kopia\main.cpp(895,50): warning C4267: "argument": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\szymo\OneDrive\Pulpit\Donkey Kong — kopia\main.cpp(897,50): warning C4267: "argument": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\szymo\OneDrive\Pulpit\Donkey Kong — kopia\main.cpp(899,50): warning C4267: "argument": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\szymo\OneDrive\Pulpit\Donkey Kong — kopia\main.cpp(901,50): warning C4267: "argument": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\szymo\OneDrive\Pulpit\Donkey Kong — kopia\main.cpp(903,50): warning C4267: "argument": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\szymo\OneDrive\Pulpit\Donkey Kong — kopia\main.cpp(905,50): warning C4267: "argument": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\szymo\OneDrive\Pulpit\Donkey Kong — kopia\main.cpp(907,50): warning C4267: "argument": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\szymo\OneDrive\Pulpit\Donkey Kong — kopia\main.cpp(890,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\szymo\OneDrive\Pulpit\Donkey Kong — kopia\main.cpp(892,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\szymo\OneDrive\Pulpit\Donkey Kong — kopia\main.cpp(894,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\szymo\OneDrive\Pulpit\Donkey Kong — kopia\main.cpp(896,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\szymo\OneDrive\Pulpit\Donkey Kong — kopia\main.cpp(898,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\szymo\OneDrive\Pulpit\Donkey Kong — kopia\main.cpp(900,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\szymo\OneDrive\Pulpit\Donkey Kong — kopia\main.cpp(902,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\szymo\OneDrive\Pulpit\Donkey Kong — kopia\main.cpp(904,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\szymo\OneDrive\Pulpit\Donkey Kong — kopia\main.cpp(906,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\szymo\OneDrive\Pulpit\Donkey Kong — kopia\main.cpp(1067,54): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\szymo\OneDrive\Pulpit\Donkey Kong — kopia\main.cpp(1155,48): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\szymo\OneDrive\Pulpit\Donkey Kong — kopia\main.cpp(1155,33): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\szymo\OneDrive\Pulpit\Donkey Kong — kopia\main.cpp(1165,48): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\szymo\OneDrive\Pulpit\Donkey Kong — kopia\main.cpp(1165,33): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\szymo\OneDrive\Pulpit\Donkey Kong — kopia\main.cpp(1177,63): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\szymo\OneDrive\Pulpit\Donkey Kong — kopia\main.cpp(1177,51): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\szymo\OneDrive\Pulpit\Donkey Kong — kopia\main.cpp(1180,58): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\szymo\OneDrive\Pulpit\Donkey Kong — kopia\main.cpp(1180,48): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\szymo\OneDrive\Pulpit\Donkey Kong — kopia\main.cpp(1154,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\szymo\OneDrive\Pulpit\Donkey Kong — kopia\main.cpp(1164,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  szablon2vs19.vcxproj -> C:\Users\szymo\OneDrive\Pulpit\Donkey Kong — kopia\x64\Debug\szablon2vs19.exe
